@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @w0qs1
 - 👀 I’m interested in Microcontrollers and Embedded Systems
 - 💞️ I’m looking to collaborate on AVR libraries, projects
-- 📫 mnsandeepkumar@gmail.com
 
 <!---
 w0qs1/w0qs1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
